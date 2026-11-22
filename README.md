@@ -62,7 +62,7 @@
 
 | Project | What makes it interesting | Stack |
 | :--- | :--- | :--- |
-| **[Smart Attendance System](https://github.com/basmala-mahdi-89/Smart-Attendance-System)** | QR-based university attendance with **two fraud-resistant flows**: a session QR that rotates every 5 seconds (signed JWT) and a personal TOTP QR that rotates every 30 seconds. Role dashboards for Dean, Head, Doctor and Student, live attendance updates, CSV reports and automatic migrations. | `React 19` · `Express 5` · `PostgreSQL` · `Socket.IO` |
+| **[Smart Attendance System](https://github.com/basmala-mahdi-89/Smart-Attendance-System)** | QR-based university attendance with **two fraud-resistant flows**: a session QR that rotates every 5 seconds (signed JWT) and a personal TOTP QR that rotates every 30 seconds. Role dashboards for Dean, Head, Doctor and Student, live attendance updates, CSV reports and automatic migrations. [Live API ↗](https://smart-attendance-backend-sepia.vercel.app/) | `React 19` · `Express 5` · `PostgreSQL` · `Socket.IO` |
 | **[DernSupport](https://github.com/basmala-mahdi-89/DernSupport)** | Laravel REST API with **Sanctum token authentication**, validation-first controllers and a clean product CRUD contract ready for any SPA client. | `Laravel 11` · `PHP 8.2` · `MySQL` |
 | **[Competitions](https://github.com/basmala-mahdi-89/Competitions)** | Quiz competition platform where **individuals and teams** compete across programming and sports rounds, with automatic scoring and live leaderboards — built in plain PHP with no framework. | `PHP` · `MySQL` · `JavaScript` |
 
